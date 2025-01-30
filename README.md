@@ -32,3 +32,7 @@ Air Canvas is an interactive application that allows users to draw in the air us
 - Use the buttons at the top to change colors.
 - Click on the "CLEAR" button to erase everything.
 - Press 'q' to exit the application.
+## Future Enhancements
+- Support for more colors.
+- Shape recognition (drawing circles, rectangles, etc.).
+- Save drawings as images.
