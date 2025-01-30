@@ -1,5 +1,4 @@
 #Air Canvas using OpenCV and Mediapipe
-
 import cv2              # Importing OpenCV library for computer vision tasks
 import numpy as np      # Importing NumPy for numerical operations
 import mediapipe as mp  # Importing Mediapipe for hand tracking
@@ -173,6 +172,7 @@ while ret:
     if cv2.waitKey(1) == ord('q'):
         break
 
+    
 # Release the webcam and destroy all active windows
 cap.release()
 cv2.destroyAllWindows()
